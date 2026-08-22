@@ -166,7 +166,7 @@ export default function Login() {
 
         {isAdmin && (
           <p style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 16, textAlign: 'center' }}>
-            Admin accounts. 
+            Welcome To Admin account 
           </p>
         )}
       </div>
