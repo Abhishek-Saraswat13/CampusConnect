@@ -166,7 +166,7 @@ export default function Login() {
 
         {isAdmin && (
           <p style={{ fontSize: 12, color: 'var(--text-muted)', marginTop: 16, textAlign: 'center' }}>
-            Admin accounts aren't self-service - see the README for this deployment's admin login.
+            Admin accounts. 
           </p>
         )}
       </div>
